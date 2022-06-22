@@ -3,23 +3,30 @@
 ```
 pkg install git
 ```
+
 ```
 git clone https://github.com/CodeMyHub/Ter-Kali
 ```
+
 ```
 Ter-Kali
 ```
+
 ```
 chmod +x *
 ```
+```
 ./Ter-Kali.c
 ```
+
 ```
 apt-get update
 ```
+
 ```
 apt-get upgrade
 ```
+
 ```
 apt-get distupgrade
 ```
