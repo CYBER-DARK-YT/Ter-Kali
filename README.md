@@ -27,10 +27,7 @@ apt-get update
 apt-get upgrade
 ```
 
-<img src="https://github.com/Blackhat-099/photo-/blob/main/InShot_20220623_000207156.jpg">
-
-
-<img src="https://github.com/Blackhat-099/photo-/blob/main/InShot_20220623_000234985.jpg">
+<img src="https://github.com/Blackhat-099/photo-/blob/main/InShot_20220623_000207156.jpg"><img src="https://github.com/Blackhat-099/photo-/blob/main/InShot_20220623_000234985.jpg">
 
 # Disclaimer
 
