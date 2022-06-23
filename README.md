@@ -13,7 +13,7 @@ Ter-Kali
 ```
 
 ```
-chmod 7777 *
+chmod +x Ter-Kali.c
 ```
 ```
 ./Ter-Kali.c
