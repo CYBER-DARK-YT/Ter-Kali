@@ -26,7 +26,10 @@ apt-get update
 ```
 apt-get upgrade
 ```
-
+# After 
+```
+./start-kali.sh
+```
 # Hacking
 
 Hacking refers to activities that seek to compromise digital devices, such as computers, smartphones, tablets, and even entire networks. And while hacking might not always be for malicious purposes, nowadays most references to hacking, and hackers, characterize it/them as unlawful activity by cybercriminals—motivated by financial gain
