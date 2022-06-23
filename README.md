@@ -9,11 +9,11 @@ git clone https://github.com/CodeMyHub/Ter-Kali
 ```
 
 ```
-Ter-Kali
+cd Ter-Kali
 ```
 
 ```
-chmod +x Ter-Kali.c
+chmod +x *
 ```
 ```
 ./Ter-Kali.c
