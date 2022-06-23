@@ -27,6 +27,7 @@ apt-get update
 apt-get upgrade
 ```
 # After 
+
 ```
 ./start-kali.sh
 ```
