@@ -1,4 +1,4 @@
-<img src="https://github.com/Blackhat-099/photo-/blob/main/InShot_20220622_232851063.jpg" alt="Ter Kali F1d41 ">
+<img src="https://github.com/Peaky-B1inders/Others_Photos/blob/main/Ter-kali/InShot_20220622_232851063.jpg" alt="Ter Kali F1d41 ">
 
 ```
 pkg install git
